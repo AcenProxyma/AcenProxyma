@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AcenProxyma
 - 👀 I’m interested in Technologie 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Powershell
 
 
 <!---
